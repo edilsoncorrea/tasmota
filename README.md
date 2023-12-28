@@ -5,7 +5,9 @@ https://tasmota.github.io/docs/Getting-Started/
 
 https://tasmota.github.io/docs/Buttons-and-Switches/#switchmode
 
-https://tasmota.github.io/docs/PIR-Motion-Sensors/
+[Documentação da Tasmota sobre a leitura de voltagem da bateria do Esp](https://tasmota.github.io/docs/ADC/#adc_vcc)
+
+[Documentação da Tasmota sobre Sensor PIR](https://tasmota.github.io/docs/PIR-Motion-Sensors/)
 
 [Gitpod - IDE e Compilador do Tasmota](https://gitpod.io/start/#arendst-tasmota-jaieyx27j40)
 
