@@ -9,7 +9,11 @@ https://tasmota.github.io/docs/Buttons-and-Switches/#switchmode
 
 [Documentação da Tasmota sobre Sensor PIR](https://tasmota.github.io/docs/PIR-Motion-Sensors/)
 
+
+[Documentação da Tasmota sobre Gitpod](https://tasmota.github.io/docs/Gitpod/)
+
 [Gitpod - IDE e Compilador do Tasmota](https://gitpod.io/start/#arendst-tasmota-jaieyx27j40)
+
 
 [Instalador Web do Tasmota](https://tasmota.github.io/install/)
 
