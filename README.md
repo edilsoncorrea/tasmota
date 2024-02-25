@@ -14,6 +14,8 @@ https://tasmota.github.io/docs/Buttons-and-Switches/#switchmode
 
 [Gitpod - IDE e Compilador do Tasmota](https://gitpod.io/start/#arendst-tasmota-jaieyx27j40)
 
+https://arendst-tasmota-xoj49cxbopc.ws-us108.gitpod.io/
+
 
 [Instalador Web do Tasmota](https://tasmota.github.io/install/)
 
