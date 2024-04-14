@@ -25,4 +25,6 @@ https://www.youtube.com/watch?v=WashxTcHiDc
 
 [Documentação sobre o sensor PIR](http://blog.everpi.net/2015/10/raspberry-pi-ligar-pir-sensor-movimento-hc-sr501.html)
 
+[How to Avoid Relay Flicker on Startup](https://www.forward.com.au/pfod/ESP8266/GPIOpins/ESP8266_01_pin_magic.html)
+
 
